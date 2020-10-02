@@ -35,8 +35,6 @@ Urban, Suburban, and Rural fares seem to correlate week to week. While they are 
 ## Summary
 In conclusion, the data visualizations created in this challenge show that there is a large difference in the amount of total fares by city type collected by PyBer ride-sharing. The cost of rides also likely goes up in rural areas as shown in the summary dataframe as compared to both urban and suburban city environments. In order to address disparities between these 3 city types, I recommend first that the CEO find a way to decrease the costs of rides in rural areas. This could increase the total number of rides. The cost of this can be placed on the drivers, who are already making far more than drivers in Suburban and Urban city types. Similarly, the same could be done to Suburban drivers who also make far more than Urban drivers in fare per driver. By leveraging this cost on the drivers, the cost of rides should go down for customers and the populace in these city types may begin to take more rides with PyBer.
 
-<<<<<<< HEAD
-=======
 
 
 
